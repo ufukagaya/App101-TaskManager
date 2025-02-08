@@ -4,6 +4,7 @@ Yorum satırları, derslerde bulunamayan katılımcıların inceleyebilmesi amac
 prensiplerinin anlaşılması için kurs paralelinde hazırlanmıştır.
 
 Uygulama içi örnek görüntü:
+
 ![image](https://github.com/user-attachments/assets/c9a5a185-3b81-4e11-90d8-753a3e9717ef)
 
 Etkinlik içeriği:
