@@ -6,6 +6,8 @@ prensiplerinin anlaşılması için kurs paralelinde hazırlanmıştır.
 Uygulama içi örnek görüntü:
 
 ![image](https://github.com/user-attachments/assets/c9a5a185-3b81-4e11-90d8-753a3e9717ef)
+![image](https://github.com/user-attachments/assets/1997f5ba-cd83-4dad-8f23-2e67890c20ac)
+
 
 Etkinlik içeriği:
 1.Gün: Kurulumlar ve mobil geliştirme üzerine konuştuk.
